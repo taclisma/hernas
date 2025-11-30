@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Historias de hernas",
+    pageTitle: "WikiHernas",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

@@ -1,8 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Historias de Hernas
 ---
 
-Hello world!
-does it work?
-
-Write some words here!
+Notas da campanha
