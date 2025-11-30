@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Historias de hernas",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#faf9f8ff",
+          lightgray: "#f1d9acff",
+          gray: "#c4a981ff",
+          darkgray: "#533c35ff",
+          dark: "#241d15ff",
+          secondary: "#632828ff",
+          tertiary: "#a58b84ff",
+          highlight: "rgba(169, 143, 143, 0.15)",
+          textHighlight: "#366cff88",
         },
         darkMode: {
           light: "#161618",
