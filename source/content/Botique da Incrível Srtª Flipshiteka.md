@@ -1,0 +1,2 @@
+
+[[Srtª Flipshiteka]] uma gnoma.

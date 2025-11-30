@@ -1,0 +1,2 @@
+
+Um goblinóide especialista em venenos que faz parte da [[Rugido do Dragão]] e da [[Conclave Monstruosa]]. Ajudou a assassinar Srtª Hippo no casamento sangrento e teve grande atuação na derrota de Rino.

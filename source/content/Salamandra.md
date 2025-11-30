@@ -1,0 +1,1 @@
+Integrante da Ordem do Dragão de Obsidiana. Uma humana careca responsável pelas operações de comunicação da Ordem.

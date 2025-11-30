@@ -1,0 +1,1 @@
+Uma gnoma relativamente nova que usa óculos redondos. Balconista da [[Loja de Herbalismo de Tokoyo]].

@@ -1,0 +1,1 @@
+Monge dos punhos solares. Discípulo de [[Kanami Tomsem]] em [[Zoror (Aoba)]]. 

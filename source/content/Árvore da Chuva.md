@@ -1,0 +1,1 @@
+Moradia de [[Frinent]]. Onde Hunil pega os itens para depois trocar, e onde o dragão-fada [[Frinent]] armazena os itens roubados.

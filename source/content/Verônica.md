@@ -1,0 +1,1 @@
+É a herbalista da [[Loja de Herbalismo de Tokoyo]]. É uma anã velha e aprendiz.

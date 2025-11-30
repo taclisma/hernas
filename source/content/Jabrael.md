@@ -1,0 +1,2 @@
+
+Punho solar que é parte da [[Rugido do Dragão]], que também é um capitão dos [[Punhos Solares]]. Tentava influenciar o [[Conselho dos Punhos Solares]] a levar o fim da escravidão como uma demanda para a [[Imperatriz Musumi]].

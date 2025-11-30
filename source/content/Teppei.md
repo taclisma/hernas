@@ -1,0 +1,4 @@
+o Draconato de Obsidiana: 
+
+Teppei é um draconato com escamas negras e um brilho roxo, e é o mais calmo dos monges de Mira. Tem um grande coração, e sempre incentiva que o Dojo participe das atividades comunitárias da cidade, e não apenas das questões ligadas ao combate. Costumava ser um escravo que trabalhava no jardim de Srta Hippo.
+Apesar de seu bom coração, Teppei é sem barreiras quando se trata da proteção de Calaena. Costuma ser o discípulo que Mira manda à sala do porão, quando não pode participar do "interrogatório". Está começando a aprender a usar as sombras para criar ilusões e tornar os ambientes escuros e furtivos para auxiliar os demais monges em suas missões. É o mais lento dos três.

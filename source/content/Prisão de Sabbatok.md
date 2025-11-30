@@ -1,0 +1,2 @@
+
+A prisão de [[Sabbatok]] é um dos [[Domínios do Pavor]] no Sombral. Lá jaz a maior parte da força do Dragão Caído e se mantém. Ainda, o primeiro portador da tatuagem que Mira carrega em seu corpo, [[Oden]], também está aprisionado junto ao dragão.

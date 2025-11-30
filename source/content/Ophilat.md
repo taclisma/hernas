@@ -1,0 +1,1 @@
+Ophilat é o antigo reino de [[Oraviana]], gêmea de [[Assererak]]. 

@@ -1,0 +1,1 @@
+Doença que se adquire por meio da inalação.

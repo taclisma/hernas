@@ -1,0 +1,3 @@
+a Tabaxi veloz: 
+
+A mais ágil dos discípulos. Muito boa em golpes sequenciais e acrobacias com agilidade. A mais combatente dos discípulos, geralmente enviada pra dar uma boa surra em algum espertinho que estiver tentando firmar contratos de trabalho vitalícios em troca de moradia, ou algum modelo servil que se assemelhe à servidão em Calaena. As vezes, é um pouco impulsiva.  Costumava viver na capital Qilan, e fugiu do mercado de escravos quando soube de um novo Oásis que se tornou livre.

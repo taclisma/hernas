@@ -1,0 +1,1 @@
+Uma droga que tem se tornado popular em Qilan. Seu nome real é [[Zalith]], uma doença criada pelos Ilitídeos.

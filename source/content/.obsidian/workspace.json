@@ -1,62 +1,50 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "f7d35b5ba04ede26",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "246a350fae38f2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "f943f12866348e20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "597e052f21ceef38",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "794319dfa706eafb",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "43bb8a591a014d5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "47157485e69c54d2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,104 +55,142 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "82193c167300f1d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "f50d81df76742226",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "7975b3b70b3fc805",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "b56a2e4963f8febe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Ordem do Dragão de Obsidiana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ordem do Dragão de Obsidiana"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "d5ee184c045dcb15",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "e87ae2b4fbd1a0b7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "04b6f7dcfa881ca6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "file": "Círculo dos Insetos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Círculo dos Insetos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "f943f12866348e20",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "Untitled.canvas",
+    "Tokoyo Aikyo.md",
+    "Untitled 1.base",
+    "Ghinn Sorridente.md",
+    "Bairro do Leite.md",
+    "Conselho dos Punhos Solares.md",
+    "Zoror (Aoba).md",
+    "Kanami Tomsem.md",
+    "Benvenice Safar.md",
+    "Clã dos Pedra Preciosa.md",
+    "Minas do Bairro dos Bons Servos.md",
+    "Untitled.base",
+    "bom servo.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Kanda.md",
+    "Gweniver.md",
+    "Belos Livros - Antiga Biblioteca de Otth.md",
+    "Otth.md",
+    "Vitt.md",
+    "Clã da Divina Canção.md",
+    "Gomorra.md",
+    "Sodoma.md",
+    "Tonsem.md",
+    "Monastério dos Punhos Solares.md",
+    "Sejua.md",
+    "O Plano Contra Okaskan.canvas",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Sem título"
   ]
 }

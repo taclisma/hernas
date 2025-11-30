@@ -1,0 +1,1 @@
+Um guerreiro [[Zerai]] que lutou com a Fragmentados Inc. na [[Invasão dos Polvos aos Insetos]]. Tem uma longa barba branca com os cabelos brancos também. Tem uma barba fina e vestes de Jedi.
